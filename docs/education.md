@@ -1,5 +1,5 @@
 ---
-layout: default
+
 title: "Education"
 ---
 ## Welcome to GitHub Pages

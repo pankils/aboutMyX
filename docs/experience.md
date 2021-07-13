@@ -1,5 +1,5 @@
 ---
-layout: default
+
 title: "Work Experience"
 ---
 ## Welcome to GitHub Pages

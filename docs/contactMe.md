@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Contact Me"
 ---
 ## Welcome to GitHub Pages
