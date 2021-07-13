@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+nav_order: 1
 ---
 ## Welcome to GitHub Pages
 
