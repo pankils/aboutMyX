@@ -1,6 +1,7 @@
 {% comment %}
     Based on midnight theme
 {% endcomment %}
+<!-- 
 <div id="header">
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
@@ -8,7 +9,7 @@
     <nav>
         {% assign index = site.pages | where: "path", "index.md" | first %}
 
-        <!-- The fork button class from midnight is aligned to the left so use it here as a hack. -->
+        <!~~ The fork button class from midnight is aligned to the left so use it here as a hack. ~~>
         <li class="site-title fork">
             <a href="{{ index.url | relative_url }}">{{ index.title }}</a>
         </li>
@@ -30,3 +31,13 @@
         {%- endfor -%}
     </nav>
 </div>
+ -->
+<div class="navbar" id="page-top">
+      <div class="navbar-inner">
+        <div class="container">
+          <a class="brand" href="/index.md">Home</a>
+          <ul class="nav">
+            <li><a href="/about.md">About Me</a></li>        
+        <li><a href="/experience.md">Experience</a></li>
+        <li><a href="/education.md">Education</a></li>
+        <li><a href="/contactMe.md">Contact Me</a></li>
