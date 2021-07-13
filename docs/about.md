@@ -1,5 +1,6 @@
 ---
-title: "Contact Me"
+
+title: "About Me"
 ---
 <!-- 
 ## Welcome to GitHub Pages

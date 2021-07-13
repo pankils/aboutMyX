@@ -1,7 +1,6 @@
 ---
 
-title: "Work Experience"
-nav_order: 2
+title: "Experience"
 ---
 <!-- 
 ## Welcome to GitHub Pages

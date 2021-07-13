@@ -1,7 +1,5 @@
 ---
-
 title: "Education"
-nav_order: 3
 ---
 <!-- 
 ## Welcome to GitHub Pages
