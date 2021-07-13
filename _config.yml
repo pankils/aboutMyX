@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 ### Site metadata ###
 
 title: Pankil Shah CV + Blog 
@@ -39,6 +38,3 @@ exclude:
   - Makefile
   - README.md
   - Gemfile
-=======
-theme: jekyll-theme-midnight
->>>>>>> e8a3c1eb7e971237ab705eac7a0d723f696cd4eb
