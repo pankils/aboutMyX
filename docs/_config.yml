@@ -1,5 +1,5 @@
 ### Site metadata ###
-show_downloads: true
+#show_downloads: true
 title: Pankil Shah CV + Blog 
 description: "My blog of experiences around DevOps"
 
@@ -13,7 +13,7 @@ theme: jekyll-theme-midnight
 
 plugins:
   - jekyll-feed
-  - jekyll-sitemap
+#  - jekyll-sitemap
 
 short_date: "%b %-d, %Y"
 
