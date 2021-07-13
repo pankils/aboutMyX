@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: "Contact Me"
 ---
 ## Welcome to GitHub Pages
 

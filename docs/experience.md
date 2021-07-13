@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Home"
+title: "Work Experience"
 ---
 ## Welcome to GitHub Pages
 
